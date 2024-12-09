@@ -22,5 +22,5 @@ Este proyecto es un sitio web de e-commerce dinámico e interactivo que consume 
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone (https://github.com/Nogunaga/talentoTech)
 
